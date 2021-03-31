@@ -1,6 +1,6 @@
-# Linear-Regression
 
-Bike Sharing- Problem Statement
+
+Bike Sharing- Problem Statement- Linear regression modelling (using statsmodels and RFE)
 
 BoomBikes aspires to understand the demand for shared bikes among the people so as to strategise business plan after this ongoing quarantine situation ends across the nation due to Covid-19.
 
